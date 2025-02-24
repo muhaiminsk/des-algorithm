@@ -217,7 +217,3 @@ plaintext = binary_to_ascii(plaintext_bin)
 print("\nFinal Result:")
 print(f"Decrypted Binary: {plaintext_bin}")
 print(f"Decrypted ASCII: {plaintext}")
-
-# GitHub Repository Link
-print("\nGitHub Code Link:")
-print("https://github.com/yourusername/des-decryption")
